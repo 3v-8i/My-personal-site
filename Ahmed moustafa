@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ar">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>أحمد مصطفى</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>أحمد مصطفى</h1>
+        <p>مرحبًا بكم في موقعي الشخصي</p>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="#home">الرئيسية</a></li>
+            <li><a href="#about">من أنا</a></li>
+            <li><a href="#contact">تواصل</a></li>
+        </ul>
+    </nav>
+    <section id="home">
+        <h2>الرئيسية</h2>
+        <p>هذه هي الصفحة الرئيسية لموقعي الشخصي.</p>
+    </section>
+    <section id="about">
+        <h2>من أنا</h2>
+        <p>اسمي أحمد مصطفى، وأنا مهتم بتطوير الويب والتقنية.</p>
+    </section>
+    <section id="contact">
+        <h2>تواصل</h2>
+        <p>يمكنكم التواصل معي عبر البريد الإلكتروني: ahmed@example.com</p>
+    </section>
+    <footer>
+        <p>&copy; 2024 أحمد مصطفى. جميع الحقوق محفوظة.</p>
+    </footer>
+</body>
+</html>
